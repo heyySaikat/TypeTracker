@@ -10,7 +10,7 @@ body{
 
 }
 .textbox{
-    background-color: rgb(245, 222, 179);
+    background-color: rgba(245, 222, 179, 80);
     border-radius: 10px;
     height: 300px;
     width: 800px;
